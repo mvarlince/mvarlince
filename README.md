@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Azure AI, Tensorflow, Python**
 
-- 👨💻 Checkout my portfolio website at [https://varlince-portfolio.web.app]([https://github.com/mvarlince](https://varlince-portfolio.web.app))
+- 👨💻 Checkout my portfolio website at [https://varlince-portfolio.web.app](https://varlince-portfolio.web.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mvarlince](https://github.com/mvarlince)
 
